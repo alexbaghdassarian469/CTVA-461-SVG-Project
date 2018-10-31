@@ -1,0 +1,11 @@
+<svg version="1.1" id="el_rJTeP9dpI27" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 1280 1024;" xml:space="preserve"><style>@-webkit-keyframes el_rJmbD9OpL3X_Animation{0%{opacity: 0;}100%{opacity: 1;}}@keyframes el_rJmbD9OpL3X_Animation{0%{opacity: 0;}100%{opacity: 1;}}#el_rJTeP9dpI27 *{-webkit-animation-duration: 3s;animation-duration: 3s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#el_SkZ-w5d6L2m{fill: #631AD6;}#el_ByM-wc_6I2X{fill: #631AD6;}#el_rJmbD9OpL3X{fill: #EAEA2A;-webkit-animation-name: el_rJmbD9OpL3X_Animation;animation-name: el_rJmbD9OpL3X_Animation;opacity: 0;}</style>
+
+<g id="el_HkCeP5O6InQ">
+	<rect x="46.08" y="374" width="8.38" height="61.98" id="el_rJkbP9uTU2Q"/>
+</g>
+<g id="el_SklbP5upU2m">
+	<rect x="31" y="435.98" width="38.53" height="38.53" id="el_SkZ-w5d6L2m"/>
+</g>
+<polygon points="101.08,435.7 69.53,449.31 69.53,464.36 101.08,477.58 " id="el_ByM-wc_6I2X"/>
+<polygon points="239,404.99 101.08,444.88 101.08,466.84 239,530.07 " id="el_rJmbD9OpL3X"/>
+</svg>
